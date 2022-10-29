@@ -29,3 +29,4 @@ picom -b --config ~/.config/picom/picom.conf;
 
 # startup
 ulauncher &
+ulauncher-toggle &
