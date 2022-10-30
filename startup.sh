@@ -28,5 +28,6 @@ killall picom;
 picom -b --config ~/.config/picom/picom.conf;
 
 # startup
+spice-vdagent &
 ulauncher &
 ulauncher-toggle &
